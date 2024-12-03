@@ -75,4 +75,4 @@ Uma plataforma sofisticada de arbitragem de criptomoedas que monitora diferença
 
 ## Licença
 
-MIT License
+INFOLUX INFORMÁTICA - SOLUÇÕES EM TÉCNOLOGIA
